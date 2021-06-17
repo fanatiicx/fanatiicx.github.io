@@ -1,3 +1,3 @@
-# website
+# Resume
 
-simple site setup for resume using theme on github
+This is a simple site setup for a resume, using a GitHub theme.
