@@ -6,14 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
-![Image](https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png)
-
 ### Markdown
 
 This page was created using markdown.
 
 ```markdown
 Syntax highlighted code block
+
+**Summary:** Creative and analytical writing professional with 5+ years of SEO writing and remote work experience.
+Passionate about research and simplifying complex information for a positive user experience.
 
 # Header 1
 ## Header 2
