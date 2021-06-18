@@ -11,11 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 This page was created using markdown.
 
 ```markdown
-**Summary:** Creative and analytical writing professional with 5+ years of SEO writing and remote work experience. Passionate about research and simplifying complex information for a positive user experience.
-```
-
-```markdown
 Syntax highlighted code block
+
+**Summary:** Creative and analytical writing professional with 5+ years of SEO writing and remote work experience. Passionate about research and simplifying complex information for a positive user experience.
 
 # Header 1
 ## Header 2
