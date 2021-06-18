@@ -10,19 +10,16 @@
 
 - Creative and analytical writing professional
 - 5+ years of SEO writing and remote work experience
-- Passionate about research and simplifying complex information for a positive user experience
+- Passionate about research 
+- Passionate about simplifying complex information for a positive user experience
 
 ```
 
-**Skills and Competencies:** 
-
-```markdown
+### Skills and Competencies:
 
 - SEO Writing | Technical Writing | Editing | Clear Communication | Audience Analysis 
 - WordPress | CSS | HTML | Canva | Adobe XD | Adobe PhotoShop
 - Goal Oriented | Self-Motivated | Dependable | Adaptable | Willing to Learn
-
-```
 
 ### 📝 Work Experience
 
