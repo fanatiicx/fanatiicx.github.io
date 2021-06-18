@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/fanatiicx/website/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="portrait_grey.png" alt="jess_face" width="200"/>
+<img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
-![Image](portrait_grey.png)
+![Image](https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png)
 
 ### Markdown
 
