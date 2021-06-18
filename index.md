@@ -1,19 +1,17 @@
-## Welcome to My CV
+## Jess Chua
 
 <img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
-[Portfolio](https://jesschua.com) | [LinkedIn](https://www.linkedin.com/in/jesschua/)
+> I read, write, and analyze
+
+[Portfolio](https://jesschua.com) / [LinkedIn](https://www.linkedin.com/in/jesschua/)
 
 ### Summary
-
-```markdown
 
 - Creative and analytical writing professional
 - 5+ years of SEO writing and remote work experience
 - Passionate about research 
 - Passionate about simplifying complex information for a positive user experience
-
-```
 
 ### Skills and Competencies:
 
