@@ -50,6 +50,6 @@
 * Winner of Musepaper monthly award by *New Millennium Writings* (essay category; 2020)
 * **Interests:** Reading / Writing / Yoga / Sketching / Creative Problem-Solving / Cats / Tea
 
-### Markdown
+### 💻 Markdown
 
 This page was created via GitHub Pages using [markdown](https://guides.github.com/features/mastering-markdown/).
