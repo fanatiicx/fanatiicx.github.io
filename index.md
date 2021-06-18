@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
-> I read, write, and analyze
+> ## I read, write, and analyze. ✍️
 
 [Portfolio](https://jesschua.com) / [LinkedIn](https://www.linkedin.com/in/jesschua/)
 
