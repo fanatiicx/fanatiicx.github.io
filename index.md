@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="https://github.com/fanatiicx/fanatiicx.github.io/blob/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
+![Image](https://github.com/fanatiicx/fanatiicx.github.io/blob/gh-pages/portrait_grey.png)
+
 ### Markdown
 
 This page was created using markdown.
