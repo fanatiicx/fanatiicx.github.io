@@ -1,4 +1,4 @@
-## Jess Chua
+## Jess Chua: Content Specialist
 
 <img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
