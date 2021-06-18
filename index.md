@@ -13,9 +13,6 @@ This page was created using markdown.
 ```markdown
 Syntax highlighted code block
 
-**Summary:** Creative and analytical writing professional with 5+ years of SEO writing and remote work experience.
-Passionate about research and simplifying complex information for a positive user experience.
-
 # Header 1
 ## Header 2
 ### Header 3
