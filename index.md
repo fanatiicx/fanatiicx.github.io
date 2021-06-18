@@ -48,7 +48,7 @@
 ### 🏆 Awards and Achievements, Hobbies and Interests
 
 * Winner of Musepaper monthly award by *New Millennium Writings* (essay category; 2020)
-* **Interests:** Reading | Writing | Yoga | Sustainability | Creative Problem-Solving | Cats | Tea
+* **Interests:** Reading / Writing / Yoga / Sketching / Creative Problem-Solving / Cats / Tea
 
 ### Markdown
 
