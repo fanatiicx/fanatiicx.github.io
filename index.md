@@ -23,7 +23,7 @@
 
 **Optimal Living Daily** - *Content Specialist (Jan 2019 – Present)*
 * Applying keen attention to detail with SEO writing and editing tasks for a podcast with over 200 million downloads. Designing newsletters, infographics, and value-added resources.
-* [Creating process documentation](https://jesschua.com/optimal-living-daily/), show starter packs and “how to listen” pages with directions for new listeners.
+* [Creating process documentation](https://jesschua.com/optimal-living-daily/), show starter packs and “how to listen” pages.
 * Increasing web traffic every quarter. Applying a stringent vetting process for new content.
 
 **FlexJobs** - *Data Entry Specialist (Jan 2015 – Jan 2019)*
@@ -35,17 +35,18 @@
 * Simplified complex information via high ranking, user-friendly and visually impactful posts.
 * [Created wireframes](https://jesschua.com/care-association/) and performed content audits. Provided copywriting and marketing design for material showcased at #DMWF 2018 event.
 
-### 🌱 Volunteer Experience
+### 🌱 Projects
 
-* UNDP + Swedish EPA (Feb - Mar 2021). As a copyeditor, I listened and recorded thorough notes to provide revisions based on [substantive organizer feedback](https://jesschua.com/undp/).
+* **GitHub** (Contributor; 2021 - Present). Contributing to [open source projects](https://jesschua.com/open-source-projects/) to gain technical writing, teamwork, troubleshooting, and communication skills. Outlining and writing easy-to-understand online developer experience articles.
+* **UNDP + Swedish EPA** (Volunteer; Feb - Mar 2021). As a copyeditor, I listened and recorded thorough notes to provide revisions based on [substantive organizer feedback](https://jesschua.com/undp/).
 
-### 📚 Education and Continuing Education
+### 📚 Education
 
 * **Adams State University** - BA in Interdisciplinary Studies (English / Business), 2011
 * **Stanford University** - Writing in the Sciences (certificate with honors), 2020
 * **Coursera** - Courses in UX Design (University of Michigan) and Computational Thinking for Problem Solving (University of Pennsylvania)
 
-### 🏆 Awards and Achievements, Hobbies and Interests
+### 🏆 Awards and Interests
 
 * Winner of Musepaper monthly award by *New Millennium Writings* (essay category; 2020)
 * **Interests:** Reading / Writing / Yoga / Sketching / Creative Problem-Solving / Cats / Tea
