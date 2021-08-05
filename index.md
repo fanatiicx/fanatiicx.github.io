@@ -1,4 +1,4 @@
-## Jess Chua: Content Specialist
+## JESS CHUA: Content Specialist
 
 <img src="https://raw.githubusercontent.com/fanatiicx/fanatiicx.github.io/gh-pages/portrait_grey.png" alt="jess_face" width="200"/>
 
@@ -9,20 +9,21 @@
 ### Summary
 
 - Creative and analytical writing professional
-- 5+ years of SEO writing and remote work experience
+- 5+ years of remote work experience
 - Passionate about research 
 - Passionate about simplifying complex information for a positive user experience
 
 ### Skills and Competencies:
 
-- SEO Writing | Technical Writing | Editing | Clear Communication | Audience Analysis 
-- WordPress | CSS | HTML | Canva | Adobe XD | Adobe PhotoShop
+- UX Writing | Technical Writing | Content Strategy | Research | Visual Design | Clear Communication
+- WordPress | HTML | CSS | JavaScript | Adobe XD | Photoshop | Canva | Figma | GitHub
 - Goal Oriented | Self-Motivated | Dependable | Adaptable | Willing to Learn
 
 ### 📝 Work Experience
 
 **Optimal Living Daily** - *Content Specialist (Jan 2019 – Present)*
 * Applying keen attention to detail with SEO writing and editing tasks for a podcast with over 200 million downloads. Designing newsletters, infographics, and value-added resources.
+* Creating sketches and performing UX writing to simplify website text and navigation. 
 * [Creating process documentation](https://jesschua.com/optimal-living-daily/), show starter packs and “how to listen” pages.
 * Increasing web traffic every quarter. Applying a stringent vetting process for new content.
 
@@ -31,13 +32,13 @@
 * Writing SEO optimized summaries and maintaining a high level of accuracy and consistency for a premier telecommuting jobs website.
 
 **JessCScott.com** - *Blogger and freelance content writer (Jan 2015 – Dec 2018)*
-* Wrote, edited, and grew a [socio-political blog](https://jesschua.com/sg-history/) to 1.8 million+ views and 550+ subscribers. 
+* Wrote, edited, and grew a [niche blog](https://jesschua.com/sg-history/) to 1.8 million+ views and 550+ subscribers. 
 * Simplified complex information via high ranking, user-friendly and visually impactful posts.
 * [Created wireframes](https://jesschua.com/care-association/) and performed content audits. Provided copywriting and marketing design for material showcased at #DMWF 2018 event.
 
 ### 🌱 Projects
 
-* **GitHub** (Contributor; 2021 - Present). Contributing to [open source projects](https://jesschua.com/open-source-projects/) to gain technical writing, teamwork, troubleshooting, and communication skills. Outlining and writing easy-to-understand online developer experience articles.
+* **GitHub** (Contributor; 2021 - Present). Writing developer experience articles and contributing to [open source projects](https://jesschua.com/open-source-projects/) to gain technical writing, teamwork, and troubleshooting skills. 
 * **UNDP + Swedish EPA** (Volunteer; Feb - Mar 2021). As a copyeditor, I listened and recorded thorough notes to provide revisions based on [substantive organizer feedback](https://jesschua.com/undp/).
 
 ### 📚 Education
