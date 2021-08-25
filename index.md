@@ -16,7 +16,7 @@
 ### Skills and Competencies:
 
 - UX Writing | Technical Writing | Content Strategy | Research | Visual Design | Clear Communication
-- WordPress | HTML | CSS | JavaScript | Adobe XD | Photoshop | Canva | Figma | GitHub
+- WordPress | HTML | CSS | Adobe XD | Photoshop | Canva | Figma | GitHub
 - Goal Oriented | Self-Motivated | Dependable | Adaptable | Willing to Learn
 
 ### 📝 Work Experience
@@ -31,7 +31,7 @@
 
 * Writing SEO optimized summaries and maintaining a high level of accuracy and consistency for a premier telecommuting jobs website.
 
-**JessCScott.com** - *Blogger and freelance content writer (Jan 2015 – Dec 2018)*
+**JessCScott.com** - *Freelance content writer and designer (Jan 2015 – Dec 2018)*
 * Wrote, edited, and grew a [niche blog](https://jesschua.com/sg-history/) to 1.8 million+ views and 550+ subscribers. 
 * Simplified complex information via high ranking, user-friendly and visually impactful posts.
 * [Created wireframes](https://jesschua.com/care-association/) and performed content audits. Provided copywriting and marketing design for material showcased at #DMWF 2018 event.
